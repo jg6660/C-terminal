@@ -1,3 +1,3 @@
 # C-terminal
-Implementation of basic linux commands
-OS Linux Terminal Shell
+* Implementation of basic linux commands
+* OS Linux Terminal Shell
